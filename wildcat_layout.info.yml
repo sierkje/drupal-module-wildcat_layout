@@ -1,0 +1,8 @@
+name: "Wildcat Layout"
+type: module
+description: "Provides layout related functionality and configuration for Wildcat-flavored sites."
+core: 8.x
+package: Wildcat
+dependencies:
+  - page_manager
+  - panelizer

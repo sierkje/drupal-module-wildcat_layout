@@ -18,6 +18,7 @@
   },
   "require": {
     "drupal/page_manager": "^1.0",
+    "drupal/panels": "^3.0",
     "drupal/panelizer": "^3.0"
   }
 }

@@ -1,0 +1,8 @@
+name: "Wildcat Layout Panelizer"
+type: module
+description: "Provides Panelizer configuration for Wildcat Layout."
+core: 8.x
+package: "Wildcat Experimental"
+dependencies:
+  - panelizer
+  - wildcat_layout
